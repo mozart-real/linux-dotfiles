@@ -35,8 +35,6 @@ Localizado em `/wm`
 | :--- | :--- |
 | **Editor** | Neovim / VS Code |
 | **Linguagens** | Node.js (JS/TS), Python |
-| **Infra** | Square Cloud |
-| **Segurança** | Match IP Analysis |
 | **Música** | Spicetify + CAVA |
 
 ---
