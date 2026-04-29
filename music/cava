@@ -1,0 +1,32 @@
+## Configuração CAVA - Aesthetic White Mode
+
+[general]
+# Sensibilidade e suavidade
+framerate = 60
+autosens = 1
+overshoot = 20
+
+[bars]
+# Deixe as barras mais finas para um visual sofisticado
+width = 2
+spacing = 1
+
+[color]
+# Definindo tudo como branco sólido (Hex #FFFFFF)
+background = default
+foreground = '#FFFFFF'
+
+[styling]
+# Estilo das barras (muda para 'braille' se quiser algo mais denso)
+bar_delimiter = 0
+
+[smoothing]
+# Suaviza a transição das barras para não ficar "travado"
+monstercat = 1
+waves = 0
+noise_reduction = 0.77
+
+[input]
+# Ajuste conforme sua saída de áudio (Pipewire/PulseAudio)
+method = pulse
+source = auto
