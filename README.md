@@ -1,3 +1,3 @@
 # Minhas Configurações 
 
-## Apenas meus arguvis de configuração
+## Apenas meus arquivos de configuração
