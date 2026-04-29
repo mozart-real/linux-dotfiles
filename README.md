@@ -43,7 +43,7 @@ Localizado em `/wm`
 Este repositório foi desenhado para ser usado com **links simbólicos**. Em vez de copiar e colar, você vincula as pastas deste repositório diretamente na sua pasta `~/.config`.
 
 ### Exemplo de Organização:
-1. Faça o clone: `git clone https://github.com/seu-usuario/dotfiles.git`
+1. Faça o clone: `git clone https://github.com/mozart-real/linux-dotfiles.git`
 2. Mova ou vincule as pastas desejadas:
    - Configurações de terminal para `~/.config/terminal`
    - Papéis de parede para sua pasta de imagens ou script de BG.
