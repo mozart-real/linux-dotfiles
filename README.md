@@ -12,7 +12,6 @@ Diferente de repositórios planos, este projeto separa as responsabilidades por 
 Localizado em `/terminal`
 * **Shell:** Configurações de `.zshrc` ou `.bashrc`.
 * **Prompt:** Temas customizados (Starship/Oh My Zsh).
-* **Multiplexer:** Configurações de `tmux` ou `zellij`.
 * **Aliáses:** Atalhos produtivos para desenvolvimento e busca.
 
 ### 🎨 Estética & Interface
