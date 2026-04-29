@@ -52,7 +52,6 @@ Este repositório foi desenhado para ser usado com **links simbólicos**. Em vez
 
 ## 📋 Features & Fluxo de Trabalho
 
-- **Modularidade:** Adicione ou remova módulos (como a configuração da Match IP) sem quebrar o restante do sistema.
 - **Desenvolvimento:** Ambiente otimizado para APIs, com foco em performance e baixo consumo de RAM.
 - **Visual:** Interface minimalista e limpa, focada em produtividade.
 
