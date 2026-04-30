@@ -48,10 +48,6 @@ Este repositório foi desenhado para ser usado com **links simbólicos**. Em vez
    - Configurações de terminal para `~/.config/terminal`
    - Papéis de parede para sua pasta de imagens ou script de BG.
 
----
-## Se quiser baixar uma iso acesse meu site :)
-[Clique Aqui Para Entrar no Site](iso.squareweb.app)
-#### ou se o seu navegador não deixar acesse manualmente https://iso.squareweb.app
 
 ---
 ## 📋 Features & Fluxo de Trabalho
