@@ -13,9 +13,16 @@ Localizado em `/terminal`
 * **Shell:** Configurações de `.zshrc` ou `.bashrc`.
 * **Prompt:** Temas customizados (Starship/Oh My Zsh).
 * **Aliáses:** Atalhos produtivos para desenvolvimento e busca.
+### Minha animção
+Localizado em `/animation`
+
+* Baixe o arquivo ` ui `
+* adicione um alias `alias animation='(nohup ~/meus_apps/matrix_float > /dev/null 2>&1 &)'  `
+* coloque o arquivo `ui` em `~/meus_apps` e digite `animation`
+  e pronto!
 
 ### 🎨 Estética & Interface
-Localizado em `/wallpaper` e `/themes`
+Localizado em `/wallpaper` 
 * **Wallpapers:** Curadoria de papéis de parede em alta definição.
 * **Cores:** Paletas consistentes (Catppuccin, Tokyo Night ou Drácula).
 * **Fontes:** Configurações para Nerd Fonts e renderização de texto.
