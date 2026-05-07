@@ -212,7 +212,7 @@ static void activate(GtkApplication *gapp, gpointer user_data) {
 
 int main(int argc, char **argv) {
     App app = {0};
-    GtkApplication *gapp = gtk_application_new("com.animation", G_APPLICATION_DEFAULT_FLAGS);
+    GtkApplication *gapp = gtk_application_new("com.mozart.animation", G_APPLICATION_DEFAULT_FLAGS);
     g_signal_connect(gapp, "activate", G_CALLBACK(activate), &app);
     int status = g_application_run(G_APPLICATION(gapp), argc, argv);
     g_object_unref(gapp);
